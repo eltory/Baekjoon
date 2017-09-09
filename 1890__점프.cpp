@@ -1,5 +1,5 @@
 //
-//  점프(1890).cpp
+//  점프(1890).cpp
 //  Algorithm_study_group
 //
 //  Created by LSH on 2017. 7. 31..
