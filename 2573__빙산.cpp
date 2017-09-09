@@ -1,5 +1,5 @@
 //
-//  빙산(2573).cpp
+//  빙산(2573).cpp
 //  Algorithm_study_group
 //
 //  Created by LSH on 2017. 7. 31..
