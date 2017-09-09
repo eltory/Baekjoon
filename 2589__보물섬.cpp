@@ -1,5 +1,5 @@
 //
-//  보물섬__2589.cpp
+//  보물섬__2589.cpp
 //  Algorithm_study_group
 //
 //  Created by LSH on 2017. 9. 6..
