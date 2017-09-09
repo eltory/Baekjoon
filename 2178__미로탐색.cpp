@@ -1,5 +1,5 @@
 //
-//  미로탐색(2178).cpp
+//  미로탐색(2178).cpp
 //  Algorithm_study_group
 //
 //  Created by LSH on 2017. 8. 1..
