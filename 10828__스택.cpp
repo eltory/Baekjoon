@@ -1,5 +1,5 @@
 //
-//  스택__10828.cpp
+//  스택__10828.cpp
 //  Algorithm_study_group
 //
 //  Created by LSH on 2017. 9. 7..
