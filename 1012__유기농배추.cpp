@@ -1,5 +1,5 @@
 //
-//  유기농배추.cpp
+//  유기농배추.cpp
 //  Algorithm_study_group
 //
 //  Created by LSH on 2017. 7. 29..
