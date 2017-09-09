@@ -1,5 +1,5 @@
 //
-//  수찾기__1920.cpp
+//  수찾기__1920.cpp
 //  Algorithm_study_group
 //
 //  Created by LSH on 2017. 9. 7..
