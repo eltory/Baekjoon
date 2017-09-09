@@ -1,5 +1,5 @@
 //
-//  별찍기2__2439.cpp
+//  별찍기2__2439.cpp
 //  Algorithm_study_group
 //
 //  Created by LSH on 2017. 9. 5..
