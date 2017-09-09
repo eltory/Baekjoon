@@ -1,5 +1,5 @@
 //
-//  통나무건너뛰기.cpp
+//  통나무건너뛰기.cpp
 //  Algorithm_study_group
 //
 //  Created by LSH on 2017. 7. 28..
