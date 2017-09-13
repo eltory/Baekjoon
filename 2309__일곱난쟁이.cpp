@@ -11,30 +11,26 @@
 using namespace std;
 
 int main(){
-    int little_man[9] = {20,7,23,19,10,15,25,8,13};
+    int little_man[9] = {0};
     int total = 0;
     int idx_1 = 0, idx_2 = 0;
     
     for(int i = 0; i < 9; ++i){
-        //scanf("%d", &little_man[i]);
+        scanf("%d", &little_man[i]);
         total += little_man[i];
     }
-    printf("%d",total);
     total -= 100;
-    
-    printf("%d",total);
     sort(little_man, little_man + 9);
     for(int i = 0; i < 9; ++i){
         for (int j = i + 1; j < 9; ++j) {
             if(little_man[i] + little_man[j] == total){
                 idx_1 = i, idx_2 = j;
-                break;
             }
         }
     }
     for (int i = 0; i < 9; ++i) {
         if(i != idx_1 && i != idx_2)
-          printf("%d\n", little_man[i]);
+            printf("%d\n", little_man[i]);
     }
     return 0;
 }
