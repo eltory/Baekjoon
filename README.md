@@ -1,2 +1,2 @@
 # baekjoon
-Baekjoon online judge
+Baekjoon online judge for Algorithm
